@@ -31,7 +31,7 @@
 ![도메인 모델링](https://github.com/xiu0327/2023-refrigerator-recipe/assets/78461009/bc31d72b-0fcd-4249-b2a0-99604bca79d5)
 
 - 피그마 화면 구현
-  https://www.figma.com/proto/vgxQ0QFsEyiekFIZ6X882t/%EB%83%89%EC%9E%A5%EA%B3%A0%EB%A5%BC-%EB%B6%80%ED%83%81%ED%95%B4!?node-id=200-619&t=F03PaUpHqD9ylYz2-1
+  - https://www.figma.com/proto/vgxQ0QFsEyiekFIZ6X882t/%EB%83%89%EC%9E%A5%EA%B3%A0%EB%A5%BC-%EB%B6%80%ED%83%81%ED%95%B4!?node-id=200-619&t=F03PaUpHqD9ylYz2-1
 
 <br>
 
